@@ -4,7 +4,7 @@ This was the final project for George Washington University's DATS 6401 - Visual
 
 The data was cleaned and combined using Python. All visualizations were created using Tableau Desktop and then uploaded to Tableau Public. The visualization storyboard was embedded into a Bootstrap website template hosted on GitHub pages.
 
-See the final project at https://kushalismael.github.io/PPP_Loans_Visualization_Project/
+See the final project at https://kushalismael.github.io/PPP-Loans-Visualizations/
 
 ## Data Sources
 - US Treasury Department
